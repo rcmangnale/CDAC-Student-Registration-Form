@@ -7,7 +7,7 @@
 <body bgcolor="black">
 <form action="#" name="StudentRegistration" onSubmit="return(validate());">
     
-
+//form
 
 <table cellpadding="2" width="20%" bgcolor="FFFFFF" align="center"
 cellspacing="2">
